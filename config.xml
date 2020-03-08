@@ -2,7 +2,7 @@
 <widget id="com.ikamaru.hmskits.test" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>ionic-hmsMapKitDemo</name>
     <description>An Ionic 3 demo that uses the https://github.com/ikamaru/cordova-hms-map-kit</description>
-    <author email="hi@ionicframework.com" href="http://ionicframework.com/">Ionic Framework Team</author>
+    <author email="ikamaru.ikuane@gmail.com" href="http://ikamaru.com/">Ikamaru</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
