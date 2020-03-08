@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"890212000000000286",
+		"product_id":"9105385871708532224",
+		"client_id":"313686544361718976",
+		"client_secret":"1714A9088353953F21D69722420CB108EB87230A428E0FB4C780D1DB7879EF91",
+		"app_id":"101829701",
+		"package_name":"com.ikamaru.hmskits.test",
+		"api_key":"CV6MYsPobUiQ37rRtsA/aWAaZkyF5hn0Kg6PVfgFSISK8hfrefy/yVvVbNPuMwzLW0WbLFgaKgHE0e3J+sHyjrYC2WJ1"
+	},
+	"configuration_version":"1.0"
+}

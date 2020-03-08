@@ -1,5 +1,7 @@
 {
   "name": "ionic-hmsMapKitDemo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
