@@ -15,10 +15,10 @@ export class HomePage {
 	    	{
 				markers:[
 				{
-					lat:"33.622981",//required
-					lng:"-7.477735",//required
-					title:"title is something 1",//optional
-					snippet:"snippet is something 1"//optional
+					lat:"33.622981",	//required
+					lng:"-7.477735",	//required
+					title:"kokoro",		//optional
+					snippet:"bokuNoIe"	//optional
 				},
 				{
 					lat:"33.622239",
